@@ -10,6 +10,6 @@ This folder holds the index.html file with angular js code to test the API.
 3. Run the node server using node server.js
 4. Go to frontEnd folder run teh code with python -m SimpleHTTPServer or place teh file to any web server you want like apache directory.
 5. Try to genarte the PAy Slip.
-* Note: There is no validation on teh front end form but liitle validation are applied on the backend API
+* Note: There is no validation on the front end form but little validation are applied on the backend API for numbers and string.
 
-Test values:
+
